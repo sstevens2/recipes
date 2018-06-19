@@ -5,6 +5,8 @@ author: Sarah Stevens
 
 [Link to download PDF of this cookbook](https://github.com/sstevens2/recipes/raw/master/index.pdf)
 
+This recipe book is hosted on [Github](github.com) and you can suggest changes or report issues in [this repository](https://github.com/sstevens2/recipes).
+
 ## Avocado Greek Yogurt Green Goddess Dressing
 
 Modified from Antoni Porowski's Recipe as seen on Queer Eye
