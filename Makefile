@@ -6,7 +6,7 @@
 	pandoc -f markdown+smart --standalone --toc --to html5 -o $@ $<
 
 %.pdf : %.md
-	pandoc -f markdown+smart --standalone --toc -V geometry:margin=.9in -o $@ $<
+	pandoc -f markdown+smart --standalone --toc -V geometry:margin=.9in --variable urlcolor=blue -o $@ $<
 
 
 all : index.html index.pdf
