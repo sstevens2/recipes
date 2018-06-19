@@ -56,7 +56,7 @@ Original Recipe from Sarah. Goes great with the [Avocado Greek Yogurt Green Godd
 
 3. While the cauliflower roasts, cook the couscous according to the instructions on the package.  Mine recommended adding in stock to the water so I added veggie stock.
 
-4. While the couscous and cauliflower cook, add cook the kale on the stove with oil until it breaks down a little.  I like mine to be still a bit firm.
+4. While the couscous and cauliflower cook, cook the kale on the stove with oil until it breaks down a little.  I like mine to be still a bit firm.
 
 5. Assemble the salad.  Mix the couscous, caulflower, kale, bell peppers, and cherry tomatoes together.  Dress with dressing of choice.  If not serving right away, you may want to store it in the fridge without dressing and cherry tomatoes.
 
