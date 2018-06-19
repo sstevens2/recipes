@@ -3,6 +3,7 @@ title: Recipe Book
 author: Sarah Stevens
 ---
 
+[Link to download PDF of this cookbook](https://github.com/sstevens2/recipes/raw/master/index.pdf)
 
 ## Avocado Greek Yogurt Green Goddess Dressing
 
