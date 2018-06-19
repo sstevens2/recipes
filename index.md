@@ -5,6 +5,9 @@ author: Sarah Stevens
 
 ## Avocado Greek Yogurt Green Goddess Dressing
 
+Modified from Antoni Porowski's Recipe as seen on Queer Eye
+
+
 ### Ingredients
 - 1 bunch Parsley
 - 1 bunch Cilantro
@@ -25,7 +28,7 @@ author: Sarah Stevens
 
 ## Kale Veggie Couscous Salad
 
-Goes great with the [Avocado Greek Yogurt Green Goddess Dressing](#Avocado-Greek-Yogurt-Green-Goddess-Dressing)
+Original Recipe from Sarah. Goes great with the [Avocado Greek Yogurt Green Goddess Dressing](#Avocado-Greek-Yogurt-Green-Goddess-Dressing)
 
 ### Ingredients 
 - 1 bunch of Kale
